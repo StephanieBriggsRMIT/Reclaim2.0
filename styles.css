@@ -110,35 +110,25 @@ dt {
 }
 
 h1 {
-  color: black;
-  font-family: 'Abril Fatface', cursive;
-  font-weight: 60;
-  font-size: 60px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
   padding-top: 60px;
-  padding-left: 100px;
 }
 
-h2, h3, h4 {
+h2 {
   color: black;
   font-family: 'Roboto', sans-serif;
   font-weight: 500px;
   font-size: 30px;
 }
 
-h5,h6 {
-  color: black;
-  font-family: 'Abril Fatface', cursive;
-  font-weight: 300;
-  padding: 0px;
-  font-size: 25px;
-}
-
-h7 {
-  color: black;
-  font-family: 'Open Sans',sans-serif;
-  font-weight: 200;
-  text-decoration: underline;
-  font-size: 15px;
+h3{
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
 }
 
 
@@ -157,15 +147,6 @@ section{
     color: white;
 }
 
-footer {
-  padding: 10px;
-  text-align: center;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 100;
-  font-size: 12px;
-  color: black;
-  background-color: #008037;
-}
 
 a:link {
   color: white;
