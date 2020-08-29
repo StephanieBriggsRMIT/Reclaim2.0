@@ -9,8 +9,7 @@ background-color: #B6D7A0
 body {
   color: black;
   text-align: left;
-  font-family: 'Roboto', sans-serif;
-
+  font-family: 'Montserrat', sans-serif;
   font-size: 20px;
 }
 
@@ -18,7 +17,8 @@ header {
   background-color: #B6D7A0;
   padding: 40px;
   text-align: center;
-  font-size: 50px;
+  font-size: 40px;
+  font-weight: 600;
   color: white;
 }
 
@@ -49,7 +49,7 @@ section {
   margin: auto;
   background-color: white;
   text-align: center;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: black;
   font-size: 15px;
   padding: 20px;
@@ -94,8 +94,8 @@ li a {
 
 dl {
   color: black;
-  font-family: 'Open Sans',sans-serif;
-  font-weight: 200;
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 400;
   text-decoration: none;
   line-height: 1.5;
   font-size: 15px;
@@ -103,31 +103,31 @@ dl {
 
 dt {
   color: black;
-  font-family: 'Open Sans',sans-serif;
-  font-weight: 200;
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 400;
   text-decoration: underline;
   font-size: 15px;
 }
 
 h1 {
   color: white;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
   font-size: 40px;
   padding-top: 60px;
 }
 
 h2 {
   color: black;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 500px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
   font-size: 30px;
 }
 
 h3{
   color: white;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
   font-size: 40px;
 }
 
